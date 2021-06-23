@@ -22,3 +22,7 @@ def sqrt(a):
     print(a**(1/2))
     return a**(1/2)
 
+def exp(a,b):
+    print(a**b)
+    return a**b
+
