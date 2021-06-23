@@ -8,6 +8,10 @@ def sub(a,b):
 
 def mul(a,b):
     print(a * b)
-    return (a * b)
+    return a * b
 
-mul(6,6)
+def div(a,b):
+    print(a / b)
+    return a / b
+
+div(100,2)
