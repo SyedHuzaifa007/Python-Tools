@@ -4,6 +4,10 @@ def add(a,b):
 
 def sub(a,b):
     print(a - b)
-    return (a - b)
+    return a - b
 
-sub(10,5)
+def mul(a,b):
+    print(a * b)
+    return (a * b)
+
+mul(6,6)
