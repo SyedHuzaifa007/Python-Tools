@@ -14,4 +14,8 @@ def div(a,b):
     print(a / b)
     return a / b
 
-div(100,2)
+def sqr(a):
+    print(a*a)
+    return a*a
+
+sqr(6)
