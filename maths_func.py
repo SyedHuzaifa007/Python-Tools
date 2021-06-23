@@ -18,4 +18,7 @@ def sqr(a):
     print(a*a)
     return a*a
 
-sqr(6)
+def sqrt(a):
+    print(a**(1/2))
+    return a**(1/2)
+
