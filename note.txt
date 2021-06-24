@@ -1,1 +1,1 @@
-This is a test noteHello World/bin/python3.9 "/home/lenovo/Desktop/Work/Python Tools/Python Useful Tools/Python-Tools/note.py"
+/n /bin/python3.9 "/home/lenovo/Desktop/Work/Python Tools/Python Useful Tools/Python-Tools/note.py"/n Hello

@@ -1,6 +1,6 @@
 def note():
     note = input("Write Your Notes Here..... ")
     with open("note.txt", "a") as file:
-        file.write("/n", note)
+        file.write(f"/n {note}")
 
 note()
