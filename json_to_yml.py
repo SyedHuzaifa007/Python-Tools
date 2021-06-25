@@ -12,3 +12,7 @@ if len(sys.argv) > 1:
     else:
         print("Sorry... " + sys.argv[1] + "Not Found")
         exit(1)
+else:
+    print("Usage: json_to_yaml.py <source_file.json> [target_file.yaml]")
+
+output = yaml.dump(source_content)
