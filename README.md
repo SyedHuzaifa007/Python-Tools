@@ -1,3 +1,3 @@
 # Python-Tools
-This repository consists of useful python tools created by me
-- These are free tools
+This repository consists of useful tools made in python created by me
+- These are free tools and 
